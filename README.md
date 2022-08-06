@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabakrim&label=Profile%20views&color=0e75b6&style=flat" alt="sabakrim" /> </p>
 
-- 🌱 I’m currently learning **C, Ds, Python, Microcontroller**
+- 🌱 I’m currently learning **, Ds, Python, Microcontroller**
 
 - 💬 Ask me about **C, C++ ,Microcontroller, Arduino**
 
